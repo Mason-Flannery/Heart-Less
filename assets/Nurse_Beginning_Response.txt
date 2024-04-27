@@ -1,0 +1,6 @@
+“Ah, Number 42. Good to see that you are awake and just in time for the recreational period. How are you feeling? Lightheadedness? Stomach cramps? A desire to gnaw your own limbs
+off? Dizziness? Fatigue? Visions of demons stalking you in your sleep?”
+
+//
+“”What? No...No, nothing like that. Listen, where am I?”
+Nurse_Beginning_Response2.txt

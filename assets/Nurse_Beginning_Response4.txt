@@ -1,0 +1,18 @@
+“Ah, Number 42. Good to see that you are awake and just in time for the recreational period. How are you feeling? Lightheadedness? Stomach cramps? A desire to gnaw your own limbs
+off? Dizziness? Fatigue? Visions of demons stalking you in your sleep?”
+
+What? No...No, nothing like that. Listen, where am I?
+
+“Plato’s Penitentiary, obviously. I thought you were filled in the second you came in. Did you not pay attention to the Ferryman when you were sent here?”
+
+Ferryman? Lady, you’re not making much sense.
+
+“Sigh. Clearly, you are not educated in the way things work here. Listen, Number 42. You are here because you died. You quit. You gave up in life and you wanted an escape.”
+
+Dead!?
+
+“Please don’t interrupt. It’s rude. As I was saying, you are in the penitentiary. You must have committed a crime somewhere in your short time here. The act of trying again. That’s a big no-no here in The Overworld”
+
+//
+“Lady, this doesn’t make sense”
+Nurse_Beginning_Response5.txt

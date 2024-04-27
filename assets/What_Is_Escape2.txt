@@ -1,0 +1,11 @@
+How can I get out of this place?
+
+"Even if you do leave the prison, what will you do?”
+
+Find a way back home.
+
+“Ha ha ha! Not only stubborn, but a total clown! Well, how about we start with you getting out of this prison. Not sure what to say. The prison door is unlocked at all times.”
+
+//
+“Isn’t that really irresponsible? Why doesn’t everyone just leave if all the doors are unlocked?”
+What_Is_Escape3.txt

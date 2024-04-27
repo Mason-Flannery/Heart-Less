@@ -1,0 +1,11 @@
+You check inside Room 45. The sight of the baby blue interior was enough to make you feel ill at the sight. Other than the horrid blue shade, nothing was that much different from your own
+room. Same layout, same style bed, same style TV. Even the face on it was different to match the shade of blue. And in the center of it was a man sitting on the edge of the bed, completely
+engaged with the TV.
+
+The man had these round glasses, the rims a yellow on the side, with a large red nose like that of a clown, like someone just planted a tomato on his face. His head
+was perfectly round like an orange, bald all around. His round nose and round head made it look like some attempt at a snowman. His short figure was in contrast with the fact that he
+looked to be about thirty-five years old in age. He wore a blue factory uniform, his nametag reading “Bifford” on it.
+
+//
+Speak to Bifford
+Bifford_Beginning_Response.txt

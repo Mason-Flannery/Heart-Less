@@ -1,0 +1,10 @@
+You feel more confused than if you just kept quiet. Before you lie a few cells that you can enter. Most of them are empty right now, some most likely
+out exploring the prison of their own leisure. Rooms 45, 41, and 39 both appeared occupied for the time being. You thought, “Why the hell not. What’s the worst that could happen, aside from dying in an afterlife like state anyway.”
+
+//
+Check room 41
+Check_Room_41.txt
+
+//
+Check room 45
+Check_Room_45.txt

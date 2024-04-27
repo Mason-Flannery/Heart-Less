@@ -1,0 +1,16 @@
+The door to your room/prison/birthplace was opened by a crack. Clearly someone wanted you
+to leave. But for what reason was still a mystery to you.
+
+It would be better to head out rather than to stick around in this place. With the caution of a stray cat, you pushed the door open with
+the tips of your fingers, peeking out through the bars and the cracks in the walls, observing the walls outside.
+
+Unlike the blinding yellow, the interior of the hallway was white. A more suiting
+color than the blinding color pallet of your room
+
+//
+Continue
+HeartLessTest.txt
+
+//
+Leave?
+Exit.txt

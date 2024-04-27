@@ -1,0 +1,12 @@
+You check inside Room 41 to find that the entire room is black. Is it black on because the lights are out? No, even if it was, light from the outside would at least reflect in.
+
+No, this was pure darkness.
+
+A cell made of complete and utter abyss-like black. That would be unsettling enough, but the fact that something was staring back at you through the cell was unnerving enough. You
+knew something was in that cell. You could see the shine in their eyes. All seven of them.
+
+You chose to not engage and just step away from the cell.
+
+//
+Check room 45
+Check_Room_45.txt

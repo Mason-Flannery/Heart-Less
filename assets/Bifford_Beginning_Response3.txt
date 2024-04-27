@@ -1,0 +1,24 @@
+Excuse me?
+
+“Hmm? Yes, may I help you?”
+
+What is this place?
+
+“This is Plato’s Penitentiary. The prison of Overworld.”
+
+What is Overworld?
+
+“Wow, slow down now, kid. Only one question at a time.”
+
+//
+Penitentiary
+What_Is_Penitentiary.txt
+//
+Overworld
+What_Is_Overworld.txt
+//
+Death
+What_Is_Death.txt
+//
+Escape
+What_Is_Escape.txt

@@ -1,0 +1,14 @@
+The walls and floors were a white color, plain and simple as that. Any other color that you would see out in this hall would stand out.
+But the halls were long and expanding, the turns just barely visible at the end. But what was visible to you were the many numbered doors that were shown across the place.
+Each one, a shade of color could be seen through the bars.
+
+Each room had their own color to them, like some suffocating rainbow. Blues, greens, reds, turquoise, violets, browns. Each one of them seems to be inhabited by their own people. And just like your room,
+they were all unlocked.
+
+A few of the rooms seemed to be occupied, while others appeared to just be empty rooms with no one inside. But as you observe the different cells, you are approached by someone.
+It’s a woman. Is it? Maybe. While she had the figure of the woman, smaller body and frame, what took you by surprise was more so the fact that she had a radio speaker for a head, with a wire on the side
+that lead to a button that she held in her right hand, as well as holding a pen, her other hand holding a clipboard at the end. The nurse looked you up and down, up and down, for what felt like minutes, like she was eyeing some piece of meat at the grocery.
+
+//
+Speak to the Nurse
+Nurse_Beginning_Response.txt

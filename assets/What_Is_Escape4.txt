@@ -1,0 +1,23 @@
+How can I get out of this place?
+
+"Even if you do leave the prison, what will you do?”
+
+Find a way back home.
+
+“Ha ha ha! Not only stubborn, but a total clown! Well, how about we start with you getting out of this prison. Not sure what to say. The prison door is unlocked at all times.”
+
+Isn’t that really irresponsible? Why doesn’t everyone just leave if all the doors are unlocked?
+
+“Pay attention, kid. This is a world where people give up. People who aren’t cut out for the real world. Do you really think that we’d want to go out there where there are people looking to fight
+for fun and monsters hungry enough to tear you apart? And worse, you’d have to get a job and buy a house and take care of yourself. Socialize, get a girlfriend and start a family. Insurance."
+
+"Bills. Credit cards. Family gatherings. No thanks. I’ll stay in this place. Free food. A place to sleep. I can live out my days here getting food and shelter for free while fools like you have to actually work for it. Call me the leech, but I’m smarter than you!
+
+Goodbye
+
+"Bye bye, clown!"
+
+//
+Check room 39
+Check_Room_39.txt
+

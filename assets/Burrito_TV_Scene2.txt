@@ -1,0 +1,9 @@
+You check the white vintage TV. No different from the ones you’ve seen before, aside from the white color.
+
+You turn the switch on to the low hum as the box buzzes to life, showing a smiling white face looking back. Sure enough, it begins to speak compliments to the viewer again. This kind of thing could get draining fast.
+
+You step back, not wanting the grin to upset your eyes another second
+
+//
+Talk to The Burrito
+Burrito_TV_Scene3.txt

@@ -1,0 +1,7 @@
+How can I get out of this place?
+
+"Even if you do leave the prison, what will you do?”
+
+//
+"Find a way back home."
+What_Is_Escape2.txt

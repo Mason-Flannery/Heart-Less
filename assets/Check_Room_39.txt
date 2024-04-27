@@ -1,0 +1,11 @@
+Room 39 was not that different from the other hallway, at least in color.
+
+The white color made everything appear almost invisible to your own eyes.
+
+Of course, the one thing that stood out was this one man, his tired sunk in eyes and handlebar moustache poking out of the blanket that he wrapped himself in.
+
+He looked like a giant burrito with a face slumped over the bed, staring at the wall. The TV was off, but you are certain it would just have a white face on it.
+
+//
+Speak to the Burrito
+Burrito_Beginning_Response.txt

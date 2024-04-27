@@ -1,0 +1,5 @@
+Entering the room, the man didn’t even bother to take his gaze from the white wall. He just stared at it, blankly, like he was watching TV. Regardless, he seemed to be enjoying himself. But standing in front of him would seem to get his attention.
+
+//
+Speak to the Burrito
+Burrito_Beginning_Response3.txt

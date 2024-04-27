@@ -1,0 +1,10 @@
+“Ah, Number 42. Good to see that you are awake and just in time for the recreational period. How are you feeling? Lightheadedness? Stomach cramps? A desire to gnaw your own limbs
+off? Dizziness? Fatigue? Visions of demons stalking you in your sleep?”
+
+What? No...No, nothing like that. Listen, where am I?
+
+“Plato’s Penitentiary, obviously. I thought you were filled in the second you came in. Did you not pay attention to the Ferryman when you were sent here?”
+
+//
+“Ferryman? Lady, you’re not making much sense.”
+Nurse_Beginning_Response3.txt

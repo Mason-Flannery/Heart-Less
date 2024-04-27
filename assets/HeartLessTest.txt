@@ -1,0 +1,34 @@
+ “What would you do for a second chance?”
+
+ You Have Died…
+
+ Your soul has been rendered to a state of nothingness and your body is cold
+
+ You are an empty husk of what you once were
+
+ There is no afterlife waiting for you
+
+ No Heaven
+
+ No Hell
+
+ Just… The Overworld
+
+ You wake in a room, not that different from a hotel room. The wallpaper is all yellow, a dark mustard yellow that looks worn and ready to peel off the walls at any moment. The ceiling was also this same mustard yellow, and the carpet was its own sort of yellow-ish brown just to blend in more. The bed in the center, fit for two, was covered by yellow sheets, with stripes that were just a brighter shade of yellow.
+
+ The bed sat across from a yellow vintage TV, playing a program with a yellow smiling face that spoke compliments at the viewer, saying stuff like, “You are looking rather lovely today” and “You’re going to do great, I know it.” Empty compliments that anyone could say, really. To the right of the bed was a bathroom, leading to a yellow toilet with a yellow shower and showerhead next to it. The tiles were yellow, of course. And to the left of the bathroom seemed to be a door. Only the door looked more like that to a cell.
+
+ There were bars at the top of the door, a place for you to put your face through. And not only that, but the cell door was cracked open. Like it was begging to let someone out. And, obviously, the door was yellow.
+
+//
+Check the TV
+checkTV.txt
+//
+Check the bed
+checkBed.txt
+//
+Check the bathroom
+checkBathroom.txt
+//
+Check the exit
+checkExit.txt

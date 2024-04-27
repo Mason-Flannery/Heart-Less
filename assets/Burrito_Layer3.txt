@@ -1,0 +1,16 @@
+Layer?
+
+“You see, the Overworld is made up of different layers. Five to be exact. The prison is the very bottom layer, Layer 5. We are so down under that we are under ground. A layer specifically built
+to house those that society has no need for and don’t belong in the civilized world. And before you ask, I’m innocent. Apparently sleeping in someone’s bed is considered breaking and entering. Not my fault they didn’t lock the window.”
+
+Um, the other Layers?
+
+“Oh, sorry. Got a little sidetracked. Anyway, there are five layers going upward. Ground level is Layer 4. The city above that is Layer 3. The high class apartments are Layer 2. And Layer 1… Well, I don’t know. Nobody does. No one except the Gatekeeper is allowed on Layer 1”
+
+Is the Gatekeeper another Lord?
+
+“Yes. Maybe? I don’t know. We only hear of the Gatekeeper in whispers. No one has seen him or gotten close to him. Thanks to the other Lords.”
+
+//
+Continue
+Burrito_Lord_Explain(6).txt
